@@ -1,0 +1,72 @@
+.header {
+    display: flex;
+    justify-content:center ;
+}
+.list-links {
+    display: flex;
+    gap: 40px;
+}
+.logo {
+    margin-right: 20px;
+}
+.logo_list {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    height: 52px;
+    justify-content: space-between;
+}
+.list {
+    display: flex;
+    gap: 40px;
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(66,69,81);
+}
+.link {
+
+}
+.link a {
+    list-style: none;
+    text-decoration: none;
+    color: rgb(66,69,81);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: left;
+}
+.contacts {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.call {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 175px;
+}
+.phone_text {
+    display: flex;
+    flex-direction: column;
+    color: rgb(66,69,81);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: left;
+}
+.email {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 175px;
+}
+.email_text {
+    display: flex;
+    flex-direction: column;
+    color: rgb(66,69,81);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: left;
+}

@@ -1,0 +1,42 @@
+.our_services {
+    background-image: url("./img/yessss.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 80px;
+    padding-top: 120px;
+}
+.our_services_boxes {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.our_services_box {
+    width: 285px;
+    height: 285px;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 25px;
+    box-sizing: border-box;
+    border: 1px solid rgb(229, 232, 237);
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px -4px rgba(30, 33, 44, 0.03),0px 12px 10px -6px rgba(154, 156, 165, 0.04),0px 30px 24px -10px rgba(154, 156, 165, 0.05),0px 80px 80px -20px rgba(154, 156, 165, 0.08);
+    background: rgb(255, 255, 255);
+}
+.our_services_box span {
+    color: rgb(30, 33,44);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.our_services_more {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 80px;
+}

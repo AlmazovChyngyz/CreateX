@@ -1,0 +1,247 @@
+.footer {
+    background-image: url("./img/footer-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    /*position: relative;*/
+    width: 100%;
+    height: 100%;
+}
+.footer .container {
+    display: flex;
+    justify-content: right;
+}
+.discuss_input {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 48px;
+    width: 495px;
+    height: 666px;
+    box-sizing: border-box;
+    border: 1px solid rgb(229, 232, 237);
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px -4px rgba(30, 33, 44, 0.05),0px 12px 10px -6px rgba(30, 33, 44, 0.08),0px 26px 24px -10px rgba(30, 33, 44, 0.1),0px 60px 80px -20px rgba(30, 33, 44, 0.16);
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.discuss_input h3 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 150%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.discuss_input span {
+    color: rgb(66, 69, 81);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 150%;
+    text-align: left;
+    width: 387px;
+
+}
+.checkbox_cont {
+    margin-top: 20px;
+    margin-bottom: 24px;
+    width: 415px;
+    display: flex;
+    align-items: center;
+}
+.checkbox_cont input {
+
+}
+.checkmark {
+    width: 16px;
+    height: 16px;
+    margin-right: 15px;
+    box-sizing: border-box;
+    /* primary */
+    border: 1px solid rgb(255, 90, 48);
+    border-radius: 3px;
+    /* primary */
+    background: rgb(255, 90, 48);
+}
+.checkbox_cont span {
+    width: 387px;
+}
+.discuss_input_box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+.discuss_input_box input {
+    width: 415px;
+    height: 44px;
+    box-sizing: border-box;
+    border: 1px solid rgb(215, 218, 221);
+    border-radius: 4px;
+    background: rgb(244, 245, 247);
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
+    margin-top: 8px;
+    outline: none;
+}
+.social_media_and_email {
+    background: rgb(30, 33, 44);
+}
+.social_media_and_email .container {
+    padding-top: 80px;
+    display: flex;
+    justify-content:space-between ;
+    padding-bottom: 50px;
+}
+.company_social_media_text {
+    align-items: center;
+}
+.company_social_media_text {
+    width: 493px;
+}
+.company_social_media_text p {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.6;
+    margin-top: 25px;
+}
+
+.company_social_links {
+    display: flex;
+}
+.company_social_media {
+    display: flex;
+    width: 490px;
+    justify-content: flex-start;
+    align-items:center ;
+}
+.footerLogo {
+    margin-right: 60px;
+    width: 115px;
+    height: 22px;
+}
+.social_links {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+.email_input {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.email_input h3 {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.email_input p {
+    margin-top: 16px;
+    color: rgb(255, 255, 255);
+    width: 495px;
+    opacity: 0.6;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.footer_input_email {
+    margin-top: 24px;
+}
+.footer_input_email input {
+    width: 495px;
+    height: 44px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.12);
+    padding-inline-start: 15px;
+    padding-inline-end: 145px;
+    outline: none;
+    position: relative;
+    color: white;
+}
+.footer_input_email .main_btn {
+    width: 131px;
+    height: 44px;
+    padding: 0 32px;
+    justify-content: center;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-transform: uppercase;
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+.footer_menu {
+    background: rgb(30, 33, 44);
+    padding-bottom: 60px;
+}
+.footer-wrap {
+    display: flex;
+    gap: 125px;
+    justify-content: flex-start;
+}
+.footer-list h2 {
+    /* h6 */
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+}
+.footer-link {
+    /* base/regular */
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.6;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.footer-link span {
+    color: white;
+}
+.head_office_span {
+    color: white;
+}
+.footer-link a {
+    text-decoration: none; /* Убирает подчеркивание */
+    color: inherit; /* Наследует цвет текста от родителя */
+}
+.comp-advr {
+    background: rgb(30, 33, 44);
+    padding-bottom: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.comp-advr h6{
+    /* extrasmall/regular */
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: left;
+}

@@ -1,0 +1,10 @@
+.bureau {
+    margin-bottom: 180px;
+}
+.bureau img {
+    cursor: pointer;
+}
+.createx-video-div {
+    display: flex;
+    justify-content: center;
+}

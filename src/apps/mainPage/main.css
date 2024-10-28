@@ -1,0 +1,287 @@
+/*.main{*/
+/*    background-image: url("home/img/bg-image1.jpg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-position: top center;*/
+/*    position: relative;*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    margin-bottom: 120px;*/
+/*}*/
+/*.home_text {*/
+/*    padding-top: 220px;*/
+/*    width: 595px;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*}*/
+/*.home_text h1 {*/
+/*    color: rgb(255, 255, 2555);*/
+/*    font-size: 72px;*/
+/*    font-weight: 700;*/
+/*    line-height: 130%;*/
+/*    letter-spacing: 1px;text-align: left;*/
+/*    padding-bottom: 24px;*/
+/*}*/
+/*.home_text p {*/
+/*    color: rgb(255, 255, 2555);*/
+/*    font-size: 20px;*/
+/*    font-weight: 400;*/
+/*    line-height: 150%;*/
+/*    text-align: left;*/
+/*}*/
+/*.home_buttons {*/
+/*    padding-top: 60px;*/
+/*    padding-bottom: 200px;*/
+/*    display: flex;*/
+/*    gap: 24px;*/
+
+/*}*/
+/*.home_buttons button {*/
+/*    color: white;*/
+/*    background: rgb(255, 90,48);*/
+/*    border: none;*/
+/*    border-radius: 4px;*/
+/*    cursor: pointer;*/
+/*    font-size: 16px;*/
+/*    font-weight: 700;*/
+/*    line-height: 52px;*/
+/*    letter-spacing: 0.5px;*/
+/*    text-align: center;*/
+/*    padding: 0 40px;*/
+/*}*/
+
+/*BUREAU*/
+
+/*.bureau {*/
+/*    margin-bottom: 180px;*/
+/*}*/
+/*.bureau img {*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*VALUES*/
+
+/*.values {*/
+/*    margin-bottom: 120px;*/
+/*}*/
+/*.value_boxes {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    gap: 188px;*/
+/*    margin-bottom: 120px;*/
+/*}*/
+
+/*.value_box {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*    text-align: center;*/
+/*    align-items: center;*/
+/*    width: 285px;*/
+/*    height: 188px;*/
+/*}*/
+/*.value_box img {*/
+/*    width: 42px;*/
+/*    height: 42px;*/
+/*    margin-bottom: 24px;*/
+/*}*/
+/*.value_box span {*/
+/*    font-size: 20px;*/
+/*    font-weight: 700;*/
+/*    line-height: 150%;*/
+/*    text-align: center;*/
+/*    margin-bottom: 8px;*/
+/*}*/
+/*.value_box p {*/
+/*    font-weight: 400;*/
+/*    font-size: 16px;*/
+/*    line-height: 160%;*/
+/*    text-align: center;*/
+/*    color: rgb(120, 122, 128);*/
+/*}*/
+
+/*QUESTION INPUT*/
+
+/*.question_input {*/
+/*    padding: 40px 60px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    flex-direction: column;*/
+/*    border-radius: 4px;*/
+/*    border: 1px solid #c1c7ce;*/
+/*    box-shadow: 0px 4px 4px -4px rgba(30, 33, 44, 0.03),0px 12px 10px -6px rgba(154, 156, 165, 0.04),0px 30px 24px -10px rgba(154, 156, 165, 0.05),0px 80px 80px -20px rgba(154, 156, 165, 0.08);*/
+/*    background: rgb(255, 255, 255);*/
+
+/*}*/
+/*.question_input h1 {*/
+/*    color: rgb(30, 33, 44);*/
+/*    font-size: 28px;*/
+/*    font-weight: 700;*/
+/*    line-height: 150%;*/
+/*    text-align: center;*/
+/*    margin-bottom: 32px;*/
+/*}*/
+/*.input_boxes {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    gap: 24px;*/
+/*}*/
+/*.input_box {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*}*/
+/*.input_box span {*/
+/*    margin-bottom: 8px;*/
+/*    color: rgb(66, 69, 81);*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    line-height: 150%;*/
+/*    text-align: left;*/
+/*}*/
+/*.input_box input {*/
+/*    width: 260px;*/
+/*    height: 44px;*/
+/*    box-sizing: border-box;*/
+/*    border: 1px solid rgb(215, 218, 221);*/
+/*    border-radius: 4px;*/
+/*    background: rgb(244, 245, 247);*/
+/*    outline: none;*/
+/*    padding-left: 15px;*/
+/*}*/
+/*.input_box_message {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*}*/
+/*.input_box_message span {*/
+/*    margin-bottom: 8px;*/
+/*    color: rgb(66, 69, 81);*/
+/*    font-size: 14px;*/
+/*    font-weight: 500;*/
+/*    line-height: 150%;*/
+/*    text-align: left;*/
+/*}*/
+/*.input_box_message input {*/
+/*    width: 414px;*/
+/*    height: 44px;*/
+/*    box-sizing: border-box;*/
+/*    border: 1px solid rgb(215, 218, 221);*/
+/*    border-radius: 4px;*/
+/*    background: rgb(244, 245, 247);*/
+/*    outline: none;*/
+/*    padding-left: 15px;*/
+/*}*/
+
+/*OUR SERVICES*/
+
+/*.our_services {*/
+/*    background-image: url("./img/yessss.jpeg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-position: top center;*/
+/*    position: relative;*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    padding-bottom: 80px;*/
+/*    padding-top: 120px;*/
+/*}*/
+/*.our_services_boxes {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    gap: 30px;*/
+/*}*/
+/*.our_services_box {*/
+/*    width: 285px;*/
+/*    height: 285px;*/
+/*    display:flex ;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    flex-direction: column;*/
+/*    row-gap: 25px;*/
+/*    box-sizing: border-box;*/
+/*    border: 1px solid rgb(229, 232, 237);*/
+/*    border-radius: 4px;*/
+/*    box-shadow: 0px 4px 4px -4px rgba(30, 33, 44, 0.03),0px 12px 10px -6px rgba(154, 156, 165, 0.04),0px 30px 24px -10px rgba(154, 156, 165, 0.05),0px 80px 80px -20px rgba(154, 156, 165, 0.08);*/
+/*    background: rgb(255, 255, 255);*/
+/*}*/
+/*.our_services_box span {*/
+/*    color: rgb(30, 33,44);*/
+/*    font-size: 20px;*/
+/*    font-weight: 700;*/
+/*    text-align: center;*/
+/*}*/
+/*.our_services_more {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    gap: 40px;*/
+/*    margin-top: 80px;*/
+/*}*/
+
+/*PROJECTS*/
+
+/*.projects{*/
+/*     margin-top: 120px;*/
+/*    margin-bottom: 120px;*/
+/*}*/
+/*.projects h1 {*/
+/*    text-align: left;*/
+/*    width: 705px;*/
+/*}*/
+/*.project_boxes {*/
+/*    margin-top: 60px;*/
+/*    display: flex;*/
+/*    justify-content:center ;*/
+/*    gap: 30px;*/
+/*}*/
+/*.project_box {*/
+/*    width: 390px;*/
+/*    height: 440px;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    align-items: center;*/
+/*    border-radius: 4px;*/
+
+/*    !* shadow/regular *!*/
+/*    box-shadow: 0px 4px 4px -4px rgba(30, 33, 44, 0.05),0px 12px 10px -6px rgba(154, 156, 165, 0.08),0px 30px 24px -10px rgba(154, 156, 165, 0.1),0px 80px 80px -20px rgba(154, 156, 165, 0.16);*/
+/*    !* white *!*/
+/*    background: rgb(255, 255, 255);*/
+/*}*/
+/*.project_box img {*/
+/*    width: 390px;*/
+/*    height: 277px;*/
+/*    margin-bottom: 16px;*/
+/*}*/
+/*.project_box h3 {*/
+/*    font-weight: 700;*/
+/*    font-size: 20px;*/
+/*    line-height: 150%;*/
+/*    text-align: center;*/
+/*    margin-top: 4px;*/
+/*}*/
+/*.project_box p {*/
+/*    font-size: 14px;*/
+/*    font-weight: 400;*/
+/*    line-height: 150%;*/
+/*    text-align: center;*/
+/*}*/
+/*.project_box button {*/
+/*    margin-top: 24px;*/
+/*    width: 172px;*/
+/*    height: 44px;*/
+/*    padding: 0px 32px 0px 32px;*/
+/*    box-sizing: border-box;*/
+/*    !* primary *!*/
+/*    border: 1px solid rgb(255, 90, 48);*/
+/*    border-radius: 4px;*/
+/*    font-weight: 700;*/
+/*    font-size: 14px;*/
+/*    line-height: 44px;*/
+/*    letter-spacing: 0.5px;*/
+/*    color: rgb(255, 90,48);*/
+/*    cursor: pointer;*/
+/*}*/
+/*.all_works {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    margin-top: 80px;*/
+/*    gap:40px*/
+/*}*/

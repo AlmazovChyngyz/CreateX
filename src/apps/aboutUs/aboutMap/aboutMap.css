@@ -1,0 +1,10 @@
+.about-map .map-image {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-image: url("./map.svg");
+    width: 1230px;
+    height: 563px;
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
