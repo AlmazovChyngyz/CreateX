@@ -1,6 +1,6 @@
 import React, { useRef, useEffect,useState } from 'react';
 import Video from "./img/video.jpg";
-import Cres from "./img/videoplayback.mp4"
+import Cres from "./img/bureouvideo.mp4"
 import "./homeBureau.css"
 
 function HomeBureau (props) {
